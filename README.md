@@ -4,8 +4,12 @@ how to download for termux?(android)
 
 pip install git
 pip install python
-git clone 
-
 pip install pyautogui
 pip install time
+git clone https://github.com/AlexTyrex/WhatsAppBomb.git
+pip install pyautogui
+pip install time
+cd WhatsAppBomb
+python spam.py
 
+my first project if i do error don't hate me
